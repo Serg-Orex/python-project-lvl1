@@ -3,7 +3,7 @@ import random
 
 def main():
     print('Welcome to the Brain Games!')
-    name = input('Mai I have your name? ')
+    name = input('May I have your name? ')
     print(f'''Hello, {name}!
 Answer "yes" if the number is even, otherwise answer "no".''')
 
