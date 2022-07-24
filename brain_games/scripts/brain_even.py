@@ -30,8 +30,6 @@ Let's try again, {name}!''')
                 exit()
     print(f'Congratulations, {name}!')
 
+
 if __name__ == '__main__':
     main()
-
-
-
