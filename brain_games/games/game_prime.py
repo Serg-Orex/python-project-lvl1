@@ -2,7 +2,7 @@ import random
 
 
 DISCRIPSION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
-question = random.randint(-100, 200)
+question_game = random.randint(-100, 200)
 
 
 def prime_num(a):
@@ -22,4 +22,4 @@ def prime_num(a):
     return rezult
 
 
-correct_answer = prime_num(question)
+correct_answer = prime_num(question_game)

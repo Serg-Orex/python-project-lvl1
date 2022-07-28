@@ -2,7 +2,7 @@ import random
 
 
 DISCRIPSION = 'Answer "yes" if the number is even, otherwise answer "no".'
-question = random.randint(-1000, 1500)
+question_game = random.randint(-1000, 1500)
 
 
 def even_num(a):
@@ -13,4 +13,4 @@ def even_num(a):
     return rezult
 
 
-correct_answer = even_num(question)
+correct_answer = even_num(question_game)

@@ -1,12 +1,14 @@
 import random
 
+
 DISCRIPSION = 'Find the greatest common divisor of given numbers.'
 
 st, fn = 1, 100
 
-a = random.randint(st, fn)
-b = random.randint(st, fn)
-question = (f'{a} {b}')
+first_number = random.randint(st, fn)
+second_number = random.randint(st, fn)
+
+question_game = (f'{first_number} {second_number}')
 
 
 def great_common_div(a, b):
@@ -24,4 +26,4 @@ def great_common_div(a, b):
     return gcd
 
 
-correct_answer = great_common_div(a, b)
+correct_answer = great_common_div(first_number, second_number)

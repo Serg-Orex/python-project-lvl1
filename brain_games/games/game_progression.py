@@ -1,20 +1,20 @@
 import random
 
+
 DISCRIPSION = 'What number is missing in the progression?'
-a = random.randint(-100, 100)
+start_progression = random.randint(-100, 100)
 lenght = random.randint(7, 10)
-step = random.randint(0, 50)
+step_progression = random.randint(0, 50)
 ind = random.randint(0, (lenght - 1))
-b = range(a, (a + lenght * step), step)
+
 
 i = 0
-s = [a]
+progression = [start_progression]
 while i < (lenght - 1):
-    a += step
-    s += [a]
+    start_progression += step_progression
+    progression += [start_progression]
     i += 1
-correct_answer = s[ind]
+correct_answer = progression[ind]
 
-s_1 = s
-s_1[ind] = '..'
-question = (" ".join(map(str, s_1)))
+progression[ind] = '..'
+question_game = (" ".join(map(str, progression)))

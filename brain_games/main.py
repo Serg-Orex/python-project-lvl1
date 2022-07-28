@@ -11,7 +11,7 @@ def game_engine(game):
 
     i = 0
     while i < 3:
-        print(f'Question: {game.question}')
+        print(f'Question: {game.question_game}')
         user_answer = input('Your answer: ')
         if user_answer == str(game.correct_answer):
             print('Correct!')
