@@ -2,7 +2,7 @@
 
 ___
 
-![eeee](https://codeclimate.com//)   ![](https://github.com/Hexlet/project-action/workflows/test/badge.svg)
+![](https://github.com/Hexlet/project-action/workflows/test/badge.svg)
 
 
 <br/>
