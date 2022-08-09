@@ -12,7 +12,7 @@ ___
 
 [brain-even](https://asciinema.org/a/p62bMd1rO5OrQHCgCtaktjv5m)
 
-![brain-calc](https://asciinema.org/a/BhctKCoV9TyiT31BbRmShsobP)
+[brain-calc](https://asciinema.org/a/BhctKCoV9TyiT31BbRmShsobP)
 
 [brain-gcd](https://asciinema.org/a/eyPWsbOVZnxpiM9xA5rQ5p1HD)
 
