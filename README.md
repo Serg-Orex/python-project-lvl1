@@ -14,7 +14,7 @@ ___
  - poetry version 1.0.0 or higher
 <br/>
 <br/>
-###### [*To install the package run:*](https://asciinema.org/a/YlxjJjURJoNZJLGH4ZkCMveQb)
+######  [*To install the package run:*](https://asciinema.org/a/YlxjJjURJoNZJLGH4ZkCMveQb)
 
 `$ git clone git@github.com:Serg-Orex/python-project-lvl1.git`
 
