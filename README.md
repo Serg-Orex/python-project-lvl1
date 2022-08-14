@@ -1,28 +1,37 @@
-# ***BRAIN GAMES***
+# ***BRAiIN GAMES***
 
 ___
 
 ![hexlet-check](https://github.com/Serg-Orex/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/7efe7888e4309c2606a5/maintainability)](https://codeclimate.com/github/Serg-Orex/python-project-lvl1/maintainability)
 <a href="https://codeclimate.com/github/Serg-Orex/python-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/7efe7888e4309c2606a5/test_coverage" /></a>
-
+<br/>
+<br/>
 
 ###### *Software requirements:*
  - python version 3.6 or higher
- - pip version 19 or higher<br/>
-   (If necessary, upgrade pip with:  python3 -m pip install --upgrade --user pip)
-
-###### *To install a package:*
-
-
- - To install a package from the operating system, use the `python3 -m pip install --user dist/*.whl` command.<br/> It must be run from the root directory of the project.
+ - pip version 19 or higher
+ - poetry version 1.0.0 or higher
 <br/>
+<br/>
+###### [*To install the package run:*](https://asciinema.org/a/YlxjJjURJoNZJLGH4ZkCMveQb)
+
+`$ git clone git@github.com:Serg-Orex/python-project-lvl1.git`
+
+*next, from the directory* `python-project-lvl1` *run:* <br/>
+`$ make build` <br/>
+`$ make package install` <br/>
+
+### Successful game!
+<br/>
+<br/>
+
  
 
 ###### *Game launch examples:*
 
 
-[brain-even](https://asciinema.org/a/p62bMd1rO5OrQHCgCtaktjv5m)
+[brain-even](https://asciinema.org/a/XuZEiopugm4TIS6aJVDKCRxiJ)
 
 [brain-calc](https://asciinema.org/a/BhctKCoV9TyiT31BbRmShsobP)
 
