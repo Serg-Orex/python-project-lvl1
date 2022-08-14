@@ -14,7 +14,7 @@ ___
  - poetry version 1.0.0 or higher
 <br/>
 
-<br/>
+
 ###### *To install the package run:*<br/>
 ###### *To install the package run:*
 
