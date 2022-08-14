@@ -1,4 +1,4 @@
-# ***BRAiIN GAMES***
+# ***BRAIN GAMES***
 
 ___
 
@@ -14,13 +14,16 @@ ___
  - poetry version 1.0.0 or higher
 <br/>
 <br/>
-######  [*To install the package run:*](https://asciinema.org/a/YlxjJjURJoNZJLGH4ZkCMveQb)
+###### *To install the package run:*
+
 
 `$ git clone git@github.com:Serg-Orex/python-project-lvl1.git`
 
 *next, from the directory* `python-project-lvl1` *run:* <br/>
 `$ make build` <br/>
 `$ make package install` <br/>
+
+[*package installation*](https://asciinema.org/a/YlxjJjURJoNZJLGH4ZkCMveQb)
 
 ### Successful game!
 <br/>
@@ -39,5 +42,4 @@ ___
 
 [brain-progression](https://asciinema.org/a/yjzl9OE6oO34DCyfU14Y8HCe5)
 
-[brain-prime](https://asciinema.org/a/kSyBW90qt6yRwXdM6zu8lyYoY)
-
+[brain-prime](https://asciinema.org/a/kSyBW90qt6yRwXdM6zu8lyYoY)i
