@@ -15,7 +15,7 @@ ___
 <br/>
 
 <br/>
-###### *To install the package run:*
+###### *To install the package run:*<br/>
 ###### *To install the package run:*
 
 `$ git clone git@github.com:Serg-Orex/python-project-lvl1.git`
