@@ -13,9 +13,10 @@ ___
  - pip version 19 or higher
  - poetry version 1.0.0 or higher
 <br/>
+
 <br/>
 ###### *To install the package run:*
-
+###### *To install the package run:*
 
 `$ git clone git@github.com:Serg-Orex/python-project-lvl1.git`
 
