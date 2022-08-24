@@ -4,7 +4,6 @@ ___
 
 ![hexlet-check](https://github.com/Serg-Orex/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/7efe7888e4309c2606a5/maintainability)](https://codeclimate.com/github/Serg-Orex/python-project-lvl1/maintainability)
-<a href="https://codeclimate.com/github/Serg-Orex/python-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/7efe7888e4309c2606a5/test_coverage" /></a>
 <br/>
 <br/>
 
