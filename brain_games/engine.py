@@ -12,8 +12,9 @@ def get_game_engine(game):
         print(f'Question: {question_game}')
         user_answer = input('Your answer: ')
         if user_answer != correct_answer:
-            return print(f"'{user_answer}' is wrong answer ;(."
-                         f" Correct answer was '{correct_answer}'.\n"
-                         f"Let's try again, {name}!")
-            return print('Correct!')
+            print(f"'{user_answer}' is wrong answer ;(."
+                  f" Correct answer was '{correct_answer}'.\n"
+                  f" Let's try again, {name}!")
+            return
+        print('Correct!')
     print(f'Congratulations, {name}!')
