@@ -3,6 +3,7 @@ import random
 
 DISCRIPSION = 'What number is missing in the progression?'
 
+
 def get_question_and_answer():
     start = random.randint(-100, 100)
     length = random.randint(7, 10)

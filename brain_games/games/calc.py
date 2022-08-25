@@ -3,6 +3,7 @@ import random
 
 DISCRIPSION = 'What is the result of the expression?'
 
+
 def get_question_and_answer():
     first_number = random.randint(1, 100)
     second_number = random.randint(1, 100)
