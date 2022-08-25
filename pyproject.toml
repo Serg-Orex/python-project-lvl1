@@ -3,7 +3,7 @@ name = "hexlet-code"
 version = "0.1.0"
 description = "5 brain training games"
 authors = ["s_orex <so7577@yandex.ru>"]
-repository = [https://github.com/Serg-Orex/python-project-lvl1]
+repository = "https://github.com/Serg-Orex/python-project-lvl1"
 packages = [
   { include = "brain_games" },
 ]
