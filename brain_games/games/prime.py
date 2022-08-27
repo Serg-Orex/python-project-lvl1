@@ -1,5 +1,5 @@
 import random
-from brain_games.secondary_funcsion.is_prime import is_prime
+from brain_games.secondary_functions.is_prime import is_prime
 
 
 DISCRIPSION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
