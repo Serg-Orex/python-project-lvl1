@@ -1,5 +1,5 @@
 import random
-from brain_games.secondary_functions.great_common_div import get_great_common_div
+from brain_games.libs.great_common_div import get_great_common_div
 
 
 DISCRIPSION = 'Find the greatest common divisor of given numbers.'
