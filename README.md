@@ -2,7 +2,7 @@
 
 ___
 
-![hexlet-check](https://github.com/Serg-Orex/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)
+[![hexlet-check](https://github.com/Serg-Orex/python-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Serg-Orex/python-project-lvl1/actions/workflows/hexlet-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/7efe7888e4309c2606a5/maintainability)](https://codeclimate.com/github/Serg-Orex/python-project-lvl1/maintainability)
 <br/>
 <br/>
